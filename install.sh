@@ -9,5 +9,6 @@ mkdir -p ~/.local/bin && ln -s /usr/bin/batcat ~/.local/bin/bat
 
 cp -f ~/devcontainer-dotfiles/.gitconfig ~/.gitconfig
 cp -f ~/devcontainer-dotfiles/.irbrc ~/.irbrc
+cp -f ~/devcontainer-dotfiles/.tmux.conf ~/.tmux.conf
 mkdir -p ~/.config/tig
 cp -f ~/devcontainer-dotfiles/config/tig/config ~/.config/tig/
